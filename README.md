@@ -1,7 +1,7 @@
 ﻿# FormulaApi
 
-## Checklist Features
-- Titles List
+## Checklist
+- Features
   - [x] - Entity Framework
   - [x] - Repository pattern
   - [x] - DTOs
